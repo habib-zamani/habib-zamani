@@ -1,4 +1,4 @@
-# Hi, I'm Habib Zamani 👋
+# Hi, I'm Habibulrahman Zamani 👋
 
 ### Python Developer in Training | IT Enthusiast | Germany
 
