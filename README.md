@@ -12,6 +12,7 @@ I'm an aspiring IT professional based in Germany, currently developing my skills
 * **Testing:** pytest
 * **Version Control:** Git, GitHub
 * **Networking:** Networking Fundamentals
+* **Computer Skills:** ICDL
 
 ## 🚀 Projects
 
