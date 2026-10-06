@@ -1,6 +1,6 @@
 # Hi, I'm Habibulrahman Zamani 👋
 
-### Python Developer in Training | IT Enthusiast | Germany
+### Python Developer in Training | IT Enthusiast 
 
 I'm an aspiring IT professional based in Germany, currently developing my skills in Python, software development, and networking.
 
