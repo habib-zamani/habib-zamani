@@ -1,42 +1,55 @@
 # Hi, I'm Habibulrahman Zamani 👋
 
-### Python Developer in Training | IT Enthusiast 
+### Aspiring Fachinformatiker für Systemintegration | Python & IT Networking
 
-I'm an aspiring IT professional based in Germany, currently developing my skills in Python, software development, and networking.
+I'm an aspiring IT professional based in Germany, preparing for an Ausbildung as a **Fachinformatiker für Systemintegration**. I'm interested in IT infrastructure, computer networks, servers, and software development.
+
+I enjoy learning by building practical projects, solving technical problems, and improving my programming and troubleshooting skills.
 
 ## 🛠️ Skills
 
-* **Programming:** Python
-* **Software Development:** Object-Oriented Programming (OOP)
-* **Programming Concepts:** Exception Handling, File Handling
-* **Testing:** pytest
-* **Version Control:** Git, GitHub
-* **Networking:** Networking Fundamentals
-* **Computer Skills:** ICDL
+- **Programming:** Python, object-oriented programming (OOP)
+- **Python Concepts:** Exception handling, file handling, data processing
+- **Testing:** pytest
+- **Version Control:** Git and GitHub
+- **Networking:** Networking fundamentals
+- **Computer Skills:** ICDL
 
 ## 🚀 Projects
 
-### BioForge Pipeline
-
+### 🧬 BioForgePipeline
 A Python-based pipeline for processing and analyzing DNA sequences.
 
-**Technologies:** Python, Git, GitHub, pytest
+- Worked on FASTA parsing and DNA sequence validation
+- Practiced modular programming and data processing
+- Used Git and GitHub for version control
 
-I'm building practical Python projects to strengthen my programming, problem-solving, and software development skills.
+### 🏋️ GymClubManagement
+A team-based Python project for managing a gym.
 
-## 🎯 Career Interests
+- Worked on user-related models and services
+- Practiced object-oriented programming and team collaboration
+- Gained experience working with a multi-module codebase
 
-* Software Development
-* IT & Networking
-* Python Development
+## 🎯 Career Goals
+
+I'm looking for an **Ausbildung as a Fachinformatiker für Systemintegration in Germany**, with a particular interest in:
+
+- IT infrastructure and system administration
+- Computer networks and troubleshooting
+- Servers, operating systems, and reliable IT services
+- Python scripting and automation
 
 ## 📚 Currently Learning
 
-* Advanced Python
-* Object-Oriented Programming
-* Automated Testing
-* Git & GitHub
+- Python and software development
+- Networking and IT infrastructure
+- Testing and debugging
+- Git and GitHub workflows
 
 ## 📫 Contact
 
-I'm interested in IT Ausbildung, junior opportunities, and practical software development projects in Germany.
+- **Email:** habibzamani199@gmail.com
+- **Location:** Germany
+
+I'm open to opportunities to learn, collaborate, and grow in the IT field.
